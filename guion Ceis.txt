@@ -1,5 +1,5 @@
-Temas de que hablar:
-1.-| Introduccion hablando del motivo por el cual se creó la biblioteca virtual
+Temas de que hablar en la presentacion de la biblioteca:
+1.-| Introduccion hablando del motivo por el cual se creï¿½ la biblioteca virtual
 2.-| Contenidos de la biblioteca virtual{
 2.1| Explicar la carpeta de Actas del Ceis.
 2.2| Explicar la carpeta Libros e Instaladores.
