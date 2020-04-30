@@ -13,11 +13,24 @@ body{
     top: 7px;
     position: relative;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     width: 60%;
     height: 220px;
     border: 1px solid black;
     background-color: #424242;
+}
+
+.container__cabecera{
+    align-self: flex-start;
+    color: #F1F1F1;
+    padding-left: 1em;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container > hr {
+    margin: 0;
 }
 
 .container__post{
