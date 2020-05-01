@@ -54,7 +54,7 @@ body{
 .container__post{
     height: calc(100% - 32px);
     padding: 0px 1em;
-    color: #F1F1F1;
+    color: blue;
     text-align: left;
     font-size: 18px;
     overflow-wrap: normal;
