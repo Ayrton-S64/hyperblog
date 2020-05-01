@@ -15,8 +15,6 @@ body{
     display: flex;
     justify-content: center;
     width: 60%;
-    height: 18em;
-    border: 1px solid black;
     background-color: #424242;
 }
 
