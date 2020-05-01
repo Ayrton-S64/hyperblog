@@ -50,7 +50,7 @@ body{
 
 .container__post{
     padding: 0px 1em;
-    color: #F1F1F1;
+    color: red;
     text-align: left;
     font-size: 18px;
     overflow-wrap: normal;
